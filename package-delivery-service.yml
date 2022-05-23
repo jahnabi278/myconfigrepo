@@ -1,5 +1,5 @@
 server:
-  port: 9193
+  port: 9195
 spring:
   h2:
     console:
