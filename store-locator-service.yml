@@ -6,7 +6,7 @@ spring:
       enabled: true
 
   application:
-    name: STORE_LOCATOR-SERVICE      
+    name: STORE-LOCATOR-SERVICE      
 
       
 eureka:
